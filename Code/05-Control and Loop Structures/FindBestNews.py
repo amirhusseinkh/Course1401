@@ -9,4 +9,4 @@ for news in our_yellow_news:
     if len(news)<5:
         print(news)
     else:
-        print('nothing')
+        print('n
